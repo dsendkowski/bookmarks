@@ -59,7 +59,7 @@
 
 * [Debugging Lex, Yacc, etc.](http://www.cs.man.ac.uk/~pjj/cs2121/debug.html)
 * [Write text parsers with yacc and lex](https://www.ibm.com/developerworks/aix/tutorials/au-lexyacc/index.html)
-* [Lex and YACC primer/HOWTO](ftp://ftp.wayne.edu/ldp/en/Lex-YACC-HOWTO/Lex-YACC-HOWTO-single.html)
+* [Lex and YACC primer/HOWTO](http://ftp.wayne.edu/ldp/en/Lex-YACC-HOWTO/Lex-YACC-HOWTO-single.html)
 
 
 ## Linux Perf
