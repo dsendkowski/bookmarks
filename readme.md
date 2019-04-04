@@ -17,6 +17,7 @@
 
 * http://blog.moellenkamp.org/
 * http://www.c0t0d0s0.org/
+* https://gustedt.wordpress.com/
 
 
 ## Java
@@ -34,7 +35,7 @@
 * [Type Punning, Strict Aliasing, and Optimization](https://blog.regehr.org/archives/959)
 * http://bjoern.hoehrmann.de/utf-8/decoder/dfa/
 * https://matt.sh/howto-c
-* https://gustedt.wordpress.com/
+
 
 
 ### Undefined Behavior
